@@ -1,0 +1,6 @@
+class IsPermutation{
+
+	public IsPermuation(){
+	}
+
+}
