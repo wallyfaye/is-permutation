@@ -1,5 +1,5 @@
 # Is Permutation
-Determines if two string are permutations of one anothers
+Determines if two string are permutations of one another
 
 ## Usage
 See contents of `run.sh` or use:
