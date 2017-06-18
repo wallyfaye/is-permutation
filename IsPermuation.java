@@ -1,6 +1,0 @@
-class IsPermutation{
-
-	public IsPermuation(){
-	}
-
-}
